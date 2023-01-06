@@ -1,7 +1,8 @@
 # Always-on-top
-*A simple script build from AHK that allow pin any application on top. Support for most windows version.*
 
 ![image](hotkey.png)
+
+*A simple script build from AHK that allow pin any application on top. Support for most windows version.*
 
 ## Usage
 
@@ -19,6 +20,19 @@
 
 - Windows 7, 8, 8.1, 10 and 11
 - Windows Vista and XP (Didn't test yet)
+
+<details> <summary>Make it run at startup?</summary>
+<br>
+
+> Open Run dialog (Windows + R),
+>
+> Type `shell:startup`
+>
+> A startup folder will open, then copy the `.exe` file to it
+>
+> 👍 Enjoy! 
+>
+</details>
 
 ## Download
 

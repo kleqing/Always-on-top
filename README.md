@@ -1,8 +1,8 @@
 # Always-on-top
 
-![image](hotkey.png)
-
 *A simple script build from AHK that allow pin any application on top. Support for most windows version.*
+
+![image](hotkey.png)
 
 ## Usage
 
@@ -11,10 +11,11 @@
 
 ## Change the key combination, icon or application name.
 
-- This is a open source so all you need to do is:
+- This is a open-source project, so all you need to do is:
 	* Make sure you already have [Auto Hot Key](https://www.autohotkey.com/) installed. 
 	* Download (or clone) this repository, then open 'AlwaysOnTop.ahk' in notepad (recommend)
-	* Build your app again using (AHK Windows Spy) with your favourite name and icon (*.ico)*
+	* Build your app again using (AHK Windows Spy) with your favourite name and icon *(.ico)*
+- For lists of key, please check [Key Lists](https://www.autohotkey.com/docs/v1/KeyList.htm) for more infomation.
 
 ## Support
 
@@ -24,11 +25,11 @@
 <details> <summary>Make it run at startup?</summary>
 <br>
 
-> Open Run dialog (Windows + R),
+> Open Run dialog (Windows + R)
 >
 > Type `shell:startup`
 >
-> A startup folder will open, then copy the `.exe` file to it
+> A startup folder will open, then copy or move the `.exe` file to there.
 >
 > 👍 Enjoy! 
 >
